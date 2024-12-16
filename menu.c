@@ -97,7 +97,7 @@ int main ()
             if( again == 1)
                 printf("Thank you for using our program!");
     }else 
-        printf("Invalid Input! Please Try again!"); // Error Handler!!!
+        printf("Invalid Input! Please Try again!\n"); // Error Handler!!!
     
     } while (again == 0);
 }
